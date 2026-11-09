@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+*.log
+.env
+*.pem
+*.key
+.DS_Store
